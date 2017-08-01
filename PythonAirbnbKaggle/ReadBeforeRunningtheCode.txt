@@ -1,0 +1,3 @@
+
+
+The code is written in Python. I use Jupyter Notebook to do all the coding. After finishing the coding part, I downloaded it as a Python file and an HTML file. To run the python file, you will have to install the required packages, such as Numpy, Pandas, and Sklearn. I have run the code from beginning to the end; you should be able to run the code smoothly. For your convenience, I also attach the HTML file in this zip file. You can open it in your browser, and you can see all the codes and its outputs. 
